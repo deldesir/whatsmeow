@@ -16,6 +16,8 @@ discussions.
 The [godoc](https://pkg.go.dev/go.mau.fi/whatsmeow) includes docs for all methods and event types.
 There's also a [simple example](https://pkg.go.dev/go.mau.fi/whatsmeow#example-package) at the top.
 
+Also see [mdtest](./mdtest) for a CLI tool you can easily try out whatsmeow with.
+
 ## Features
 Most core features are already present:
 
